@@ -1,0 +1,8 @@
+.tic button{
+  height: 110px;
+  width: 110px;
+  text-align: center;
+  border: 5px solid black;
+  margin: 1px;
+  font-size: 70px;
+}
