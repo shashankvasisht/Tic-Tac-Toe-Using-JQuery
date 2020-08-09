@@ -1,39 +1,3 @@
-//Restart the Game
-// var restart = document.querySelector('#b');
-//
-//
-// //Grabs all the squares
-// var squares = document.querySelectorAll('td button');
-//
-//
-//
-// // Clears all the squares
-// function clearBoard() {
-//   for (var i = 0; i < squares.length; i++) {
-//     squares[i].textContent = '';
-//     $(h1)
-//   }
-// }
-//
-// restart.addEventListener('click',clearBoard);
-// Check the square Marker
-// function changeMarker() {
-//   if (this.textContent === '') {
-//     this.textContent = 'X';
-//   }else if (this.textContent === 'X') {
-//     this.textContent = 'O';
-//   }else {
-//     this.textContent= '';
-//   }
-//
-// }
-//
-// for (var i = 0; i < squares.length; i++) {
-//   squares[i].addEventListener('click',changeMarker)
-// }
-
-
-
 //For Loop to add the Event Listeners to all squares
 var player1symbol = 'O';
 var player2symbol = 'X';
